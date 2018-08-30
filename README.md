@@ -1,2 +1,2 @@
 # SharedPresentations
-Pulbic presentations by J.D. Soler
+Public presentations by J.D. Soler
